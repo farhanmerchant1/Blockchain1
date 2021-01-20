@@ -1,0 +1,3 @@
+[submodule "Chapter10/MultiSigWallet"]
+	path = Chapter10/MultiSigWallet
+	url = https://github.com/gnosis/MultiSigWallet.git
